@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá, sou a Larissa
 
-<!--
-**baeguk/baeguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>✌️Faço faculdade de sistema de informação na UniFOA, estou no 4 periodo</p>
+<p>😎Estou começando no frontend para passar para mobile</p>
 
-Here are some ideas to get you started:
+<a href="https://github.com/baeguk/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baeguk&layout=donut&theme=dracula" />
+</a>
+<a href="https://github.com/baeguk/baeguk/assets/102618834/97b23592-633a-4f15-bdeb-90e7a91bafab">
+  <img height=200 align="center" src="https://github.com/baeguk/baeguk/assets/102618834/97b23592-633a-4f15-bdeb-90e7a91bafab" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
