@@ -1,7 +1,6 @@
 ## Olá, sou a Larissa
 
-<p>✌️Faço faculdade de sistema de informação na UniFOA, estou no 4 periodo</p>
-<p>😎Estou começando no frontend para passar para mobile</p>
+<p>✌️Faço faculdade de sistema de informação na UniFOA, estou no 5º periodo</p>
 
 <a href="https://github.com/baeguk/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baeguk&layout=donut&theme=dracula" />
