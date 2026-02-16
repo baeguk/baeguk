@@ -1,7 +1,8 @@
 ## Olá, sou a Larissa
 
-<p>✌️Faço faculdade de sistema de informação na UniFOA, estou no 6º periodo</p>
-<p>🏢Estou desde Janeiro de 2024 estagiando como front-end, tendo experiencias com reactjs, javascript, scss e git</p>
+<p>✌️Fiz faculdade de sistema de informação na UniFOA</p>
+<p>🏢Iniciei em Janeiro de 2024 estagiando como front-end, tendo experiencias com reactjs, javascript, scss e git</p>
+<p>E hoje estou como fullstack, tendo experiencias com next.js, typescript, tailwind, node.js e python</p>
 
 <a href="https://github.com/baeguk/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baeguk&layout=donut&theme=dracula" />
